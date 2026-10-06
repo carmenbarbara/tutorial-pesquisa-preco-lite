@@ -1,2 +1,9 @@
-# tutorial-pesquisa-preco-lite
-tutorial para realizar a pesquisa de preços no sistema lite
+version: 2
+
+build:
+  os: ubuntu-22.04
+  tools:
+    python: "3.10"
+
+mkdocs:
+  configuration: mkdocs.yml
