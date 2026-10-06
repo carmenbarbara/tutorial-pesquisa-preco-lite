@@ -82,7 +82,6 @@
 
 Pronto, a cotação para aquele item foi atualizada. Para atualizar os demais itens, basta seguir novamente as instruções dos Passos 11 e 12.
 
----
 
 ## Indicadores e Gestão de Amostras
 
@@ -101,3 +100,36 @@ O Pesquisa de Preços Lite também mostra a relação de contratações pública
     
     * Na coluna **Compor**, é possível ativar ou desativar aquela cotação específica. Quando a opção estiver desativada, o valor é excluído dos cálculos estatísticos.
     * Na coluna **Ações**, o ícone de lixeira exclui permanentemente o registro da lista do item.
+# RESUMO, RELATÓRIOS E EXPORTAÇÃO
+
+**Passo 15:** Após preencher os campos obrigatórios de identificação e escolher as cotações que farão parte da sua pesquisa, clique na aba **"Resumo"**.
+
+![Aba Resumo](Imagens/PPLite-6.png)
+
+Na página de Resumo será possível:
+
+1. **Baixar e salvar o Relatório Resumido:** Para gerar o relatório resumido da pesquisa realizada em PDF, clique no botão **"Resumido"**.
+2. **Baixar e salvar o Relatório Detalhado:** O relatório apresentará a média e a mediana dos últimos 12 meses, calculadas a partir das compras homologadas de todos os itens da consulta, junto com os dados de cada item. Para gerar em PDF, clique no botão **"Detalhado"**.
+
+![Emissão do Relatório Detalhado](Imagens/PPLite-7.png)
+
+3. **Exportar os dados obtidos:** Caso prefira extrair os dados e salvá-los em formato editável no seu computador, clique em **"Exportar CSV"** no canto superior direito.
+4. **Salvar a pesquisa na sua conta:** Para armazenar a consulta e acessá-la posteriormente, clique no botão **"Salvar Pesquisa"**. Se você já realizou o login Gov.br no início, o sistema confirmará o salvamento imediatamente. Caso ainda não tenha feito login, abrirá a tela de autenticação do Gov.br para vincular a pesquisa ao seu perfil.
+
+![Salvar pesquisa na aba Resumo](Imagens/PPLite-6A.png)
+
+!!! warning "Atenção"
+    Ao clicar no botão "Home" ou em "Voltar" sem estar autenticado via Gov.br ou sem salvar a pesquisa, o sistema encerrará a consulta e os dados **não ficarão salvos**. 
+    
+    Para garantir que seu trabalho não seja perdido e possa ser recuperado a qualquer momento, utilize o botão **"Salvar Pesquisa"** com o login Gov.br antes de sair.
+
+![Alerta ao sair sem salvar](Imagens/PPLite-8.png)
+
+
+## Suporte e Atendimento
+
+Caso tenha dúvidas ou precise de suporte, a Central de Atendimento do Ministério da Gestão e da Inovação em Serviços Públicos (MGI) está disponível:
+
+* **Portal de Serviços:** Através do portal oficial
+* **Telefone:** 0800 978 9001
+* **Horário:** Segunda a sexta-feira, das 8h às 18h
